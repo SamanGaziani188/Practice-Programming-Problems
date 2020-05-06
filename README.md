@@ -1,2 +1,5 @@
 # Practice-Programming-Problems
-Practice Programming problems solved during my under-graduation in Habib University
+
+This repository contains weekwise exercises solved in a study group formed by CS students. The exercises are extracted from different coding platforms, that include hackerRank and leetCode. 
+
+The exercises are solved in Python and the level range from easy to medium to hard. 
